@@ -1,0 +1,427 @@
+{
+    "preguntas": [
+        {
+            "question": "¿Cuál es la capital de Francia?",
+            "opciones": [
+                "Londres",
+                "París",
+                "Roma"
+            ],
+            "respuesta": "París"
+        },
+        {
+            "question": "¿Cuál es el río más largo del mundo?",
+            "opciones": [
+                "Nilo",
+                "Amazonas",
+                "Misisipi"
+            ],
+            "respuesta": "Amazonas"
+        },
+        {
+            "question": "¿Qué tipo de animal es la ballena?",
+            "opciones": [
+                "Pez",
+                "Mamífero",
+                "Reptil"
+            ],
+            "respuesta": "Mamífero"
+        },
+        {
+            "question": "¿Dónde está Transilvania?",
+            "opciones": [
+                "Rumanía",
+                "Hungría",
+                "Bulgaria"
+            ],
+            "respuesta": "Rumanía"
+        },
+        {
+            "question": "¿Cuál es el país con más habitantes del mundo?",
+            "opciones": [
+                "China",
+                "India",
+                "Estados Unidos"
+            ],
+            "respuesta": "China"
+        },
+        {
+            "question": "¿Cuál es el edificio más alto del mundo?",
+            "opciones": [
+                "Burj Khalifa",
+                "Torre Eiffel",
+                "Empire State"
+            ],
+            "respuesta": "Burj Khalifa"
+        },
+        {
+            "question": "¿Qué día es la fiesta nacional de los Estados Unidos?",
+            "opciones": [
+                "4 de julio",
+                "11 de septiembre",
+                "31 de octubre"
+            ],
+            "respuesta": "4 de julio"
+        },
+        {
+            "question": "¿Quién escribió La Odisea?",
+            "opciones": [
+                "Homero",
+                "Virgilio",
+                "Platón"
+            ],
+            "respuesta": "Homero"
+        },
+        {
+            "question": "¿Quién pintó La última cena?",
+            "opciones": [
+                "Miguel Ángel",
+                "Leonardo da Vinci",
+                "Rafael"
+            ],
+            "respuesta": "Leonardo da Vinci"
+        },
+        {
+            "question": "¿Cuántos años duró la Primera Guerra Mundial?",
+            "opciones": [
+                "2 años",
+                "4 años",
+                "6 años"
+            ],
+            "respuesta": "4 años"
+        },
+        {
+            "question": "¿Cuántos años duró la Segunda Guerra Mundial?",
+            "opciones": [
+                "4 años",
+                "6 años",
+                "8 años"
+            ],
+            "respuesta": "6 años"
+        },
+        {
+            "question": "¿Cuándo murió Freddie Mercury?",
+            "opciones": [
+                "1981",
+                "1986",
+                "1991"
+            ],
+            "respuesta": "1991"
+        },
+        {
+            "question": "¿Qué tipo de instrumento es el violín?",
+            "opciones": [
+                "De cuerda",
+                "De viento",
+                "De percusión"
+            ],
+            "respuesta": "De cuerda"
+        },
+        {
+            "question": "¿Qué deporte practica Rafael Nadal?",
+            "opciones": [
+                "Fútbol",
+                "Tenis",
+                "Baloncesto"
+            ],
+            "respuesta": "Tenis"
+        },
+        {
+            "question": "¿Qué país tiene forma de bota?",
+            "opciones": [
+                "España",
+                "Italia",
+                "Grecia"
+            ],
+            "respuesta": "Italia"
+        },
+        {
+            "question": "¿Qué planeta es el más grande del sistema solar?",
+            "opciones": [
+                "Júpiter",
+                "Saturno",
+                "Urano"
+            ],
+            "respuesta": "Júpiter"
+        },
+        {
+            "question": "¿Qué órgano humano tiene forma de mariposa?",
+            "opciones": [
+                "Tiroides",
+                "Páncreas",
+                "Hígado"
+            ],
+            "respuesta": "Tiroides"
+        },
+        {
+            "question": "¿Qué animal tiene el período de gestación más largo?",
+            "opciones": [
+                "Elefante",
+                "Ballena",
+                "Jirafa"
+            ],
+            "respuesta": "Elefante"
+        },
+        {
+            "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
+            "opciones": [
+                "Indonesia",
+                "Japón",
+                "Islandia"
+            ],
+            "respuesta": "Indonesia"
+        },
+        {
+            "question": "¿Qué escritor creó al personaje de Sherlock Holmes?",
+            "opciones": [
+                "Arthur Conan Doyle",
+                "Agatha Christie",
+                "Edgar Allan Poe"
+            ],
+            "respuesta": "Arthur Conan Doyle"
+        },
+        {
+            "question": "¿Qué ciudad es conocida como la ciudad de los canales?",
+            "opciones": [
+                "Venecia",
+                "Ámsterdam",
+                "Bruselas"
+            ],
+            "respuesta": "Venecia"
+        },
+        {
+            "question": "¿Qué elemento químico tiene la sigla O?",
+            "opciones": [
+                "Oxígeno",
+                "Oro",
+                "Osmio"
+            ],
+            "respuesta": "Oxígeno"
+        },
+        {
+            "question": "¿Qué nombre recibe el resultado de la multiplicación?",
+            "opciones": [
+                "Suma",
+                "Producto",
+                "Cociente"
+            ],
+            "respuesta": "Producto"
+        },
+        {
+            "question": "¿Qué continente es el más poblado del mundo?",
+            "opciones": [
+                "Asia",
+                "África",
+                "Europa"
+            ],
+            "respuesta": "Asia"
+        },
+        {
+            "question": "¿Qué país tiene la bandera con una hoja de arce roja?",
+            "opciones": [
+                "Canadá",
+                "Suiza",
+                "Turquía"
+            ],
+            "respuesta": "Canadá"
+        },
+        {
+            "question": "¿Qué animal es el símbolo nacional de Estados Unidos?",
+            "opciones": [
+                "Águila",
+                "Oso",
+                "Bisonte"
+            ],
+            "respuesta": "Águila"
+        },
+        {
+            "question": "¿Qué instrumento musical tiene 88 teclas?",
+            "opciones": [
+                "Piano",
+                "Órgano",
+                "Acordeón"
+            ],
+            "respuesta": "Piano"
+        },
+        {
+            "question": "¿Qué pintor se cortó una oreja?",
+            "opciones": [
+                "Vincent van Gogh",
+                "Pablo Picasso",
+                "Salvador Dalí"
+            ],
+            "respuesta": "Vincent van Gogh"
+        },
+        {
+            "question": "¿Cuál es la capital de España?",
+            "opciones": [
+                "Madrid",
+                "Barcelona",
+                "Sevilla"
+            ],
+            "respuesta": "Madrid"
+        },
+        {
+            "question": "¿Qué fruta tiene las semillas por fuera?",
+            "opciones": [
+                "Fresa",
+                "Kiwi",
+                "Plátano"
+            ],
+            "respuesta": "Fresa"
+        },
+        {
+            "question": "¿Qué órgano humano produce la insulina?",
+            "opciones": [
+                "Páncreas",
+                "Hígado",
+                "Riñón"
+            ],
+            "respuesta": "Páncreas"
+        },
+        {
+            "question": "¿Qué país tiene la forma de una bota?",
+            "opciones": [
+                "España",
+                "Italia",
+                "Grecia"
+            ],
+            "respuesta": "Italia"
+        },
+        {
+            "question": "¿Qué personaje histórico dijo 'Veni, vidi, vici'?",
+            "opciones": [
+                "Julio César",
+                "Alejandro Magno",
+                "Napoleón Bonaparte"
+            ],
+            "respuesta": "Julio César"
+        },
+        {
+            "question": "¿Qué disciplina olímpica se practica sobre un tatami?",
+            "opciones": [
+                "Judo",
+                "Gimnasia",
+                "Esgrima"
+            ],
+            "respuesta": "Judo"
+        },
+        {
+            "question": "¿Qué país se conoce como la tierra de los faraones?",
+            "opciones": [
+                "Egipto",
+                "Marruecos",
+                "Irán"
+            ],
+            "respuesta": "Egipto"
+        },
+        {
+            "question": "¿Qué tipo de palabra es 'amarillo'?",
+            "opciones": [
+                "Sustantivo",
+                "Adjetivo",
+                "Verbo"
+            ],
+            "respuesta": "Adjetivo"
+        },
+        {
+            "question": "¿Qué animal puede vivir tanto en el agua como en la tierra?",
+            "opciones": [
+                "Anfibio",
+                "Reptil",
+                "Mamífero"
+            ],
+            "respuesta": "Anfibio"
+        },
+        {
+            "question": "¿Qué ciudad alberga la famosa Torre Eiffel?",
+            "opciones": [
+                "París",
+                "Berlín",
+                "Londres"
+            ],
+            "respuesta": "París"
+        },
+        {
+            "question": "¿Qué nombre recibe el ángulo que mide 90 grados?",
+            "opciones": [
+                "Recto",
+                "Agudo",
+                "Obtuso"
+            ],
+            "respuesta": "Recto"
+        },
+        {
+            "question": "¿Qué artista es el autor de la Mona Lisa?",
+            "opciones": [
+                "Leonardo da Vinci",
+                "Miguel Ángel",
+                "Rafael"
+            ],
+            "respuesta": "Leonardo da Vinci"
+        },
+        {
+            "question": "¿Qué país es el mayor productor de café del mundo?",
+            "opciones": [
+                "Brasil",
+                "Colombia",
+                "Vietnam"
+            ],
+            "respuesta": "Brasil"
+        },
+        {
+            "question": "¿Qué planeta es el más cercano al sol?",
+            "opciones": [
+                "Mercurio",
+                "Venus",
+                "Marte"
+            ],
+            "respuesta": "Mercurio"
+        },
+        {
+            "question": "¿Qué órgano humano es el responsable de la respiración?",
+            "opciones": [
+                "Pulmones",
+                "Corazón",
+                "Hígado"
+            ],
+            "respuesta": "Pulmones"
+        },
+        {
+            "question": "¿Qué personaje de ficción vive en el 221B de Baker Street?",
+            "opciones": [
+                "Sherlock Holmes",
+                "Harry Potter",
+                "James Bond"
+            ],
+            "respuesta": "Sherlock Holmes"
+        },
+        {
+            "question": "¿Qué país tiene la mayor superficie del mundo?",
+            "opciones": [
+                "Rusia",
+                "Canadá",
+                "China"
+            ],
+            "respuesta": "Rusia"
+        },
+        {
+            "question": "¿Qué instrumento musical tiene forma de ocho?",
+            "opciones": [
+                "Guitarra",
+                "Violín",
+                "Arpa"
+            ],
+            "respuesta": "Violín"
+        },
+        {
+            "question": "¿Qué pintor se hizo famoso por sus cuadros de girasoles?",
+            "opciones": [
+                "Vincent van Gogh",
+                "Claude Monet",
+                "Pablo Picasso"
+            ],
+            "respuesta": "Vincent van Gogh"
+        }
+    ]
+}
