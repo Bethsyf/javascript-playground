@@ -6,25 +6,39 @@ html {
 }
 
 body {
-    width: 600px;
-    font-family: Arial, sans-serif;
+    width: 750px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
     background-image: url(./../media/background.jpeg);   
     background-size: cover;
+    height: 100%;   
+    display: flex;
+    flex-direction: column;   
+    justify-content: space-around;       
+   
 }
 
 .container {
     background-color: rgba(206, 86, 51, 0.8);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 20px #592c25;
     text-align: center;
     color:#f3f2ee; 
     font-weight: bold;
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    justify-content: flex-end;   
+    @media (min-width: 600px) {
+      
+    }
+}    
 
-}
 .title{
     color: #fccd4b;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+    margin: 15px auto;
 }
 
 .container .image {
@@ -41,13 +55,13 @@ body {
     margin-bottom: 10px;
 }
 
-.options{   
+.options {
     display: flex;
+    flex-direction: row;
     justify-content: center;
-    gap: 30px;    
-  
-    
+    gap: 30px;
 }
+
 button{
     display: block;
     width: 150px;
@@ -57,19 +71,44 @@ button{
     border-radius: 5px;
     cursor: pointer;
     background-color: rgba(249, 185, 54, 1); 
-    color: #35627c; 
+    color: #441f17; 
     font-weight: bold;
     box-shadow: 2px 2px 5px rgba(157, 58, 58, 0.889);
 }
 
-
-
-
-#mensaje {
+#message {
+    display: none;
     margin-top: 15px;
+    margin-bottom: 15px;
     font-weight: bold;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0px 0px 5px #f1cf7b; 
+    animation: flash 5s infinite;
+}
+
+@keyframes flash {
+    0% {
+        color: #f3f2ee;
+    }
+    50% {
+        color: #f1cf7b;
+    }
+    100% {
+        color: #f3f2ee;
+    }
 }
 
 #reiniciar {
-    margin-top: 20px;
+    margin-top: 20px;  
+}
+
+footer a {
+    color: #441f17;
+    font-weight: 550;
+    text-decoration: none;
+}
+
+footer a span {
+    text-decoration: none;
 }

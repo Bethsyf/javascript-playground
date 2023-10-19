@@ -6,11 +6,10 @@ const optionsElement = document.getElementById('options');
 const messageElement = document.getElementById('message');
 const restartButton = document.getElementById('restart');
 
-let questions = []; // Arreglo para almacenar las preguntas
-let shuffledQuestions = []; // Arreglo para almacenar preguntas aleatorias
+let questions = [];
+let shuffledQuestions = [];
 
-// Cargar las preguntas desde questions.json
-fetch('questions.json') // Asegúrate de que la ruta al archivo JSON sea correcta
+fetch('questions.json')
   .then((response) => response.json())
   .then((data) => {
     questions = data.preguntas;
@@ -21,10 +20,8 @@ fetch('questions.json') // Asegúrate de que la ruta al archivo JSON sea correct
   });
 
 function shuffleQuestions() {
-  // Copiar las preguntas en un nuevo arreglo para no modificar el original
   shuffledQuestions = [...questions];
 
-  // Mezclar el arreglo de preguntas de manera aleatoria
   for (let i = shuffledQuestions.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [shuffledQuestions[i], shuffledQuestions[j]] = [
@@ -38,7 +35,6 @@ function shuffleQuestions() {
 
 function loadQuestion() {
   if (currentQuestion < 5) {
-    // Mostrar solo 5 preguntas
     questionElement.textContent = shuffledQuestions[currentQuestion].question;
     optionsElement.innerHTML = '';
 
@@ -71,9 +67,10 @@ function checkAnswer(event) {
 }
 
 function showResult() {
+  questionElement.style.display = 'none';
   optionsElement.style.display = 'none';
+  messageElement.style.display = 'block';
   messageElement.textContent = `Respondiste correctamente ${correctAnswers} de 5 preguntas.`;
-
   let finalMessage = '';
   if (correctAnswers === 5) {
     finalMessage = '¡Excelente! Eres un experto en conocimientos generales.';
@@ -83,7 +80,6 @@ function showResult() {
     finalMessage = 'Puedes mejorar tus conocimientos generales.';
   }
   messageElement.textContent += ' ' + finalMessage;
-
   restartButton.style.display = 'block';
 }
 
@@ -94,4 +90,5 @@ restartButton.addEventListener('click', () => {
   messageElement.textContent = '';
   restartButton.style.display = 'none';
   shuffleQuestions();
+  location.reload();
 });
