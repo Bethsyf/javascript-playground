@@ -2,426 +2,426 @@
     "preguntas": [
         {
             "question": "¿Cuál es la capital de Francia?",
-            "opciones": [
+            "options": [
                 "Londres",
                 "París",
                 "Roma"
             ],
-            "respuesta": "París"
+            "answer": "París"
         },
         {
             "question": "¿Cuál es el río más largo del mundo?",
-            "opciones": [
+            "options": [
                 "Nilo",
                 "Amazonas",
                 "Misisipi"
             ],
-            "respuesta": "Amazonas"
+            "answer": "Amazonas"
         },
         {
             "question": "¿Qué tipo de animal es la ballena?",
-            "opciones": [
+            "options": [
                 "Pez",
                 "Mamífero",
                 "Reptil"
             ],
-            "respuesta": "Mamífero"
+            "answer": "Mamífero"
         },
         {
             "question": "¿Dónde está Transilvania?",
-            "opciones": [
+            "options": [
                 "Rumanía",
                 "Hungría",
                 "Bulgaria"
             ],
-            "respuesta": "Rumanía"
+            "answer": "Rumanía"
         },
         {
             "question": "¿Cuál es el país con más habitantes del mundo?",
-            "opciones": [
+            "options": [
                 "China",
                 "India",
                 "Estados Unidos"
             ],
-            "respuesta": "China"
+            "answer": "China"
         },
         {
             "question": "¿Cuál es el edificio más alto del mundo?",
-            "opciones": [
+            "options": [
                 "Burj Khalifa",
                 "Torre Eiffel",
                 "Empire State"
             ],
-            "respuesta": "Burj Khalifa"
+            "answer": "Burj Khalifa"
         },
         {
             "question": "¿Qué día es la fiesta nacional de los Estados Unidos?",
-            "opciones": [
+            "options": [
                 "4 de julio",
                 "11 de septiembre",
                 "31 de octubre"
             ],
-            "respuesta": "4 de julio"
+            "answer": "4 de julio"
         },
         {
             "question": "¿Quién escribió La Odisea?",
-            "opciones": [
+            "options": [
                 "Homero",
                 "Virgilio",
                 "Platón"
             ],
-            "respuesta": "Homero"
+            "answer": "Homero"
         },
         {
             "question": "¿Quién pintó La última cena?",
-            "opciones": [
+            "options": [
                 "Miguel Ángel",
                 "Leonardo da Vinci",
                 "Rafael"
             ],
-            "respuesta": "Leonardo da Vinci"
+            "answer": "Leonardo da Vinci"
         },
         {
             "question": "¿Cuántos años duró la Primera Guerra Mundial?",
-            "opciones": [
+            "options": [
                 "2 años",
                 "4 años",
                 "6 años"
             ],
-            "respuesta": "4 años"
+            "answer": "4 años"
         },
         {
             "question": "¿Cuántos años duró la Segunda Guerra Mundial?",
-            "opciones": [
+            "options": [
                 "4 años",
                 "6 años",
                 "8 años"
             ],
-            "respuesta": "6 años"
+            "answer": "6 años"
         },
         {
             "question": "¿Cuándo murió Freddie Mercury?",
-            "opciones": [
+            "options": [
                 "1981",
                 "1986",
                 "1991"
             ],
-            "respuesta": "1991"
+            "answer": "1991"
         },
         {
             "question": "¿Qué tipo de instrumento es el violín?",
-            "opciones": [
+            "options": [
                 "De cuerda",
                 "De viento",
                 "De percusión"
             ],
-            "respuesta": "De cuerda"
+            "answer": "De cuerda"
         },
         {
             "question": "¿Qué deporte practica Rafael Nadal?",
-            "opciones": [
+            "options": [
                 "Fútbol",
                 "Tenis",
                 "Baloncesto"
             ],
-            "respuesta": "Tenis"
+            "answer": "Tenis"
         },
         {
             "question": "¿Qué país tiene forma de bota?",
-            "opciones": [
+            "options": [
                 "España",
                 "Italia",
                 "Grecia"
             ],
-            "respuesta": "Italia"
+            "answer": "Italia"
         },
         {
             "question": "¿Qué planeta es el más grande del sistema solar?",
-            "opciones": [
+            "options": [
                 "Júpiter",
                 "Saturno",
                 "Urano"
             ],
-            "respuesta": "Júpiter"
+            "answer": "Júpiter"
         },
         {
             "question": "¿Qué órgano humano tiene forma de mariposa?",
-            "opciones": [
+            "options": [
                 "Tiroides",
                 "Páncreas",
                 "Hígado"
             ],
-            "respuesta": "Tiroides"
+            "answer": "Tiroides"
         },
         {
             "question": "¿Qué animal tiene el período de gestación más largo?",
-            "opciones": [
+            "options": [
                 "Elefante",
                 "Ballena",
                 "Jirafa"
             ],
-            "respuesta": "Elefante"
+            "answer": "Elefante"
         },
         {
             "question": "¿Qué país tiene la mayor cantidad de volcanes activos?",
-            "opciones": [
+            "options": [
                 "Indonesia",
                 "Japón",
                 "Islandia"
             ],
-            "respuesta": "Indonesia"
+            "answer": "Indonesia"
         },
         {
             "question": "¿Qué escritor creó al personaje de Sherlock Holmes?",
-            "opciones": [
+            "options": [
                 "Arthur Conan Doyle",
                 "Agatha Christie",
                 "Edgar Allan Poe"
             ],
-            "respuesta": "Arthur Conan Doyle"
+            "answer": "Arthur Conan Doyle"
         },
         {
             "question": "¿Qué ciudad es conocida como la ciudad de los canales?",
-            "opciones": [
+            "options": [
                 "Venecia",
                 "Ámsterdam",
                 "Bruselas"
             ],
-            "respuesta": "Venecia"
+            "answer": "Venecia"
         },
         {
             "question": "¿Qué elemento químico tiene la sigla O?",
-            "opciones": [
+            "options": [
                 "Oxígeno",
                 "Oro",
                 "Osmio"
             ],
-            "respuesta": "Oxígeno"
+            "answer": "Oxígeno"
         },
         {
             "question": "¿Qué nombre recibe el resultado de la multiplicación?",
-            "opciones": [
+            "options": [
                 "Suma",
                 "Producto",
                 "Cociente"
             ],
-            "respuesta": "Producto"
+            "answer": "Producto"
         },
         {
             "question": "¿Qué continente es el más poblado del mundo?",
-            "opciones": [
+            "options": [
                 "Asia",
                 "África",
                 "Europa"
             ],
-            "respuesta": "Asia"
+            "answer": "Asia"
         },
         {
             "question": "¿Qué país tiene la bandera con una hoja de arce roja?",
-            "opciones": [
+            "options": [
                 "Canadá",
                 "Suiza",
                 "Turquía"
             ],
-            "respuesta": "Canadá"
+            "answer": "Canadá"
         },
         {
             "question": "¿Qué animal es el símbolo nacional de Estados Unidos?",
-            "opciones": [
+            "options": [
                 "Águila",
                 "Oso",
                 "Bisonte"
             ],
-            "respuesta": "Águila"
+            "answer": "Águila"
         },
         {
             "question": "¿Qué instrumento musical tiene 88 teclas?",
-            "opciones": [
+            "options": [
                 "Piano",
                 "Órgano",
                 "Acordeón"
             ],
-            "respuesta": "Piano"
+            "answer": "Piano"
         },
         {
             "question": "¿Qué pintor se cortó una oreja?",
-            "opciones": [
+            "options": [
                 "Vincent van Gogh",
                 "Pablo Picasso",
                 "Salvador Dalí"
             ],
-            "respuesta": "Vincent van Gogh"
+            "answer": "Vincent van Gogh"
         },
         {
             "question": "¿Cuál es la capital de España?",
-            "opciones": [
+            "options": [
                 "Madrid",
                 "Barcelona",
                 "Sevilla"
             ],
-            "respuesta": "Madrid"
+            "answer": "Madrid"
         },
         {
             "question": "¿Qué fruta tiene las semillas por fuera?",
-            "opciones": [
+            "options": [
                 "Fresa",
                 "Kiwi",
                 "Plátano"
             ],
-            "respuesta": "Fresa"
+            "answer": "Fresa"
         },
         {
             "question": "¿Qué órgano humano produce la insulina?",
-            "opciones": [
+            "options": [
                 "Páncreas",
                 "Hígado",
                 "Riñón"
             ],
-            "respuesta": "Páncreas"
+            "answer": "Páncreas"
         },
         {
             "question": "¿Qué país tiene la forma de una bota?",
-            "opciones": [
+            "options": [
                 "España",
                 "Italia",
                 "Grecia"
             ],
-            "respuesta": "Italia"
+            "answer": "Italia"
         },
         {
             "question": "¿Qué personaje histórico dijo 'Veni, vidi, vici'?",
-            "opciones": [
+            "options": [
                 "Julio César",
                 "Alejandro Magno",
                 "Napoleón Bonaparte"
             ],
-            "respuesta": "Julio César"
+            "answer": "Julio César"
         },
         {
             "question": "¿Qué disciplina olímpica se practica sobre un tatami?",
-            "opciones": [
+            "options": [
                 "Judo",
                 "Gimnasia",
                 "Esgrima"
             ],
-            "respuesta": "Judo"
+            "answer": "Judo"
         },
         {
             "question": "¿Qué país se conoce como la tierra de los faraones?",
-            "opciones": [
+            "options": [
                 "Egipto",
                 "Marruecos",
                 "Irán"
             ],
-            "respuesta": "Egipto"
+            "answer": "Egipto"
         },
         {
             "question": "¿Qué tipo de palabra es 'amarillo'?",
-            "opciones": [
+            "options": [
                 "Sustantivo",
                 "Adjetivo",
                 "Verbo"
             ],
-            "respuesta": "Adjetivo"
+            "answer": "Adjetivo"
         },
         {
             "question": "¿Qué animal puede vivir tanto en el agua como en la tierra?",
-            "opciones": [
+            "options": [
                 "Anfibio",
                 "Reptil",
                 "Mamífero"
             ],
-            "respuesta": "Anfibio"
+            "answer": "Anfibio"
         },
         {
             "question": "¿Qué ciudad alberga la famosa Torre Eiffel?",
-            "opciones": [
+            "options": [
                 "París",
                 "Berlín",
                 "Londres"
             ],
-            "respuesta": "París"
+            "answer": "París"
         },
         {
             "question": "¿Qué nombre recibe el ángulo que mide 90 grados?",
-            "opciones": [
+            "options": [
                 "Recto",
                 "Agudo",
                 "Obtuso"
             ],
-            "respuesta": "Recto"
+            "answer": "Recto"
         },
         {
             "question": "¿Qué artista es el autor de la Mona Lisa?",
-            "opciones": [
+            "options": [
                 "Leonardo da Vinci",
                 "Miguel Ángel",
                 "Rafael"
             ],
-            "respuesta": "Leonardo da Vinci"
+            "answer": "Leonardo da Vinci"
         },
         {
             "question": "¿Qué país es el mayor productor de café del mundo?",
-            "opciones": [
+            "options": [
                 "Brasil",
                 "Colombia",
                 "Vietnam"
             ],
-            "respuesta": "Brasil"
+            "answer": "Brasil"
         },
         {
             "question": "¿Qué planeta es el más cercano al sol?",
-            "opciones": [
+            "options": [
                 "Mercurio",
                 "Venus",
                 "Marte"
             ],
-            "respuesta": "Mercurio"
+            "answer": "Mercurio"
         },
         {
             "question": "¿Qué órgano humano es el responsable de la respiración?",
-            "opciones": [
+            "options": [
                 "Pulmones",
                 "Corazón",
                 "Hígado"
             ],
-            "respuesta": "Pulmones"
+            "answer": "Pulmones"
         },
         {
             "question": "¿Qué personaje de ficción vive en el 221B de Baker Street?",
-            "opciones": [
+            "options": [
                 "Sherlock Holmes",
                 "Harry Potter",
                 "James Bond"
             ],
-            "respuesta": "Sherlock Holmes"
+            "answer": "Sherlock Holmes"
         },
         {
             "question": "¿Qué país tiene la mayor superficie del mundo?",
-            "opciones": [
+            "options": [
                 "Rusia",
                 "Canadá",
                 "China"
             ],
-            "respuesta": "Rusia"
+            "answer": "Rusia"
         },
         {
             "question": "¿Qué instrumento musical tiene forma de ocho?",
-            "opciones": [
+            "options": [
                 "Guitarra",
                 "Violín",
                 "Arpa"
             ],
-            "respuesta": "Violín"
+            "answer": "Violín"
         },
         {
             "question": "¿Qué pintor se hizo famoso por sus cuadros de girasoles?",
-            "opciones": [
+            "options": [
                 "Vincent van Gogh",
                 "Claude Monet",
                 "Pablo Picasso"
             ],
-            "respuesta": "Vincent van Gogh"
+            "answer": "Vincent van Gogh"
         }
     ]
 }

@@ -44,11 +44,11 @@ function loadQuestion() {
 
     for (
       let i = 0;
-      i < shuffledQuestions[currentQuestion].opciones.length;
+      i < shuffledQuestions[currentQuestion].options.length;
       i++
     ) {
       const option = document.createElement('button');
-      option.textContent = shuffledQuestions[currentQuestion].opciones[i];
+      option.textContent = shuffledQuestions[currentQuestion].options[i];
       option.addEventListener('click', checkAnswer);
       optionsElement.appendChild(option);
     }
@@ -59,7 +59,7 @@ function loadQuestion() {
 
 function checkAnswer(event) {
   const selectedAnswer = event.target.textContent;
-  const correctAnswer = shuffledQuestions[currentQuestion].respuesta;
+  const correctAnswer = shuffledQuestions[currentQuestion].answer;
 
   if (selectedAnswer === correctAnswer) {
     correctAnswers++;
